@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @abhishek4data
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning SQL(Structured Query LAnguage), SSAS(SQL Server Analysis Services), SSIS(SQL Server Integration Services) & Data Warehouse 
+- 📫 How to reach me prathiabhishek@outlook.com
